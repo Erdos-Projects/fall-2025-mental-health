@@ -166,3 +166,4 @@ param.sdpa
 
 *ipynb_checkpoints*
 .jupyter_ystore.db
+*.csv
